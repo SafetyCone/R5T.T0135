@@ -1,3 +1,7 @@
 R5T.T0135 - Roslyn syntax element operation-related types (AnnotatedNode, AddNodeResult, etc.).
 
-GOALS:
+
+Allowed Dependencies:
+
+* R5T.L0011 - Microsoft.CodeAnalysis (Roslyn) library Nuget package version selector.
+* R5T.X0005 - Extensions for Roslyn syntax functionality (non-generation).
